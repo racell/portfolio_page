@@ -2,4 +2,7 @@
 for my design portfolio
 
 bootstrap + NodeJS
+
 be responsive web
+
+Using TDD
