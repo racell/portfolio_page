@@ -1,0 +1,33 @@
+{
+  "name": "portfolio_page_project",
+  "version": "1.0.0",
+  "description": "for my design portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/racell/portfolio_page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/racell/portfolio_page/issues"
+  },
+  "homepage": "https://github.com/racell/portfolio_page#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.14.0",
+    "font-awesome": "^4.6.3",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-header": "^1.8.8",
+    "gulp-less": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "jquery": "^3.1.0",
+    "magnific-popup": "^1.1.0",
+    "scrollreveal": "^3.3.1"
+  }
+}
