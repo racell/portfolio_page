@@ -1,9 +1,8 @@
 /**
  * Created by SeongJung on 2016-08-11.
  */
-"use strict";
 var gulp = require('gulp');
-var less = require('less');
+var less = require('gulp-less');
 var browserSync = require('browser-sync').create();
 var header = require('gulp-header');
 var cleanCSS = require('gulp-clean-css');
